@@ -32,9 +32,9 @@ const App = () => {
     <div className="App">
       <h1 className="app-title"> Monsters Rolodex </h1>
       <SearchBox
+        className="monsters-search-box"
         onChangehandler={onSearchChange}
         placeholder="search monsters"
-        className="monsters-search-box"
       />
       <CardList monsters={filteredMonsters} />
     </div>

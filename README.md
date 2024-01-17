@@ -1,3 +1,22 @@
+# Monster Rolodex
+
+## Overview
+
+Monster Rolodex is a web application built using React, showcasing a collection of monsters. The application pulls data from a JSON file to display images, names, and user handles of various monsters. It provides users with an interactive and visually appealing way to explore and learn more about each monster.
+
+## Features
+
+Monster Gallery: Browse through a visually engaging gallery of different monsters.
+Detailed Information: View detailed information about each monster, including images, names, and user handles.
+Dynamic Filtering: Use dynamic filtering options to search for specific monsters based on various criteria.
+
+## Technologies Used
+
+React: A JavaScript library for building user interfaces, used as the primary framework for this project.
+JavaScript: The core programming language for building the application logic.
+HTML: Markup language for structuring the web pages.
+CSS: Stylesheets to enhance the visual appeal and layout of the application.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
